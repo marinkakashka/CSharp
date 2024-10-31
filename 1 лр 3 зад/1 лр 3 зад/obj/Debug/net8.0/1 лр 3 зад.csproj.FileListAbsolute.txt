@@ -1,0 +1,14 @@
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\bin\Debug\net8.0\1 лр 3 зад.exe
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\bin\Debug\net8.0\1 лр 3 зад.deps.json
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\bin\Debug\net8.0\1 лр 3 зад.runtimeconfig.json
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\bin\Debug\net8.0\1 лр 3 зад.dll
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\bin\Debug\net8.0\1 лр 3 зад.pdb
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\obj\Debug\net8.0\1 лр 3 зад.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\obj\Debug\net8.0\1 лр 3 зад.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\obj\Debug\net8.0\1 лр 3 зад.AssemblyInfo.cs
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\obj\Debug\net8.0\1 лр 3 зад.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\obj\Debug\net8.0\1 лр 3 зад.dll
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\obj\Debug\net8.0\refint\1 лр 3 зад.dll
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\obj\Debug\net8.0\1 лр 3 зад.pdb
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\obj\Debug\net8.0\1 лр 3 зад.genruntimeconfig.cache
+C:\Users\Marina\source\repos\1 лр 3 зад\1 лр 3 зад\obj\Debug\net8.0\ref\1 лр 3 зад.dll

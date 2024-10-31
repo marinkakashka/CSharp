@@ -1,0 +1,14 @@
+C:\Users\Marina\source\repos\лр 4\bin\Debug\net8.0\лр 4.exe
+C:\Users\Marina\source\repos\лр 4\bin\Debug\net8.0\лр 4.deps.json
+C:\Users\Marina\source\repos\лр 4\bin\Debug\net8.0\лр 4.runtimeconfig.json
+C:\Users\Marina\source\repos\лр 4\bin\Debug\net8.0\лр 4.dll
+C:\Users\Marina\source\repos\лр 4\bin\Debug\net8.0\лр 4.pdb
+C:\Users\Marina\source\repos\лр 4\obj\Debug\net8.0\лр 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\лр 4\obj\Debug\net8.0\лр 4.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\лр 4\obj\Debug\net8.0\лр 4.AssemblyInfo.cs
+C:\Users\Marina\source\repos\лр 4\obj\Debug\net8.0\лр 4.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\лр 4\obj\Debug\net8.0\лр 4.dll
+C:\Users\Marina\source\repos\лр 4\obj\Debug\net8.0\refint\лр 4.dll
+C:\Users\Marina\source\repos\лр 4\obj\Debug\net8.0\лр 4.pdb
+C:\Users\Marina\source\repos\лр 4\obj\Debug\net8.0\лр 4.genruntimeconfig.cache
+C:\Users\Marina\source\repos\лр 4\obj\Debug\net8.0\ref\лр 4.dll

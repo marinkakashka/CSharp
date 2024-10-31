@@ -1,0 +1,14 @@
+C:\Users\Marina\source\repos\лр3\лр3\bin\Debug\net8.0\лр3.exe
+C:\Users\Marina\source\repos\лр3\лр3\bin\Debug\net8.0\лр3.deps.json
+C:\Users\Marina\source\repos\лр3\лр3\bin\Debug\net8.0\лр3.runtimeconfig.json
+C:\Users\Marina\source\repos\лр3\лр3\bin\Debug\net8.0\лр3.dll
+C:\Users\Marina\source\repos\лр3\лр3\bin\Debug\net8.0\лр3.pdb
+C:\Users\Marina\source\repos\лр3\лр3\obj\Debug\net8.0\лр3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\лр3\лр3\obj\Debug\net8.0\лр3.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\лр3\лр3\obj\Debug\net8.0\лр3.AssemblyInfo.cs
+C:\Users\Marina\source\repos\лр3\лр3\obj\Debug\net8.0\лр3.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\лр3\лр3\obj\Debug\net8.0\лр3.dll
+C:\Users\Marina\source\repos\лр3\лр3\obj\Debug\net8.0\refint\лр3.dll
+C:\Users\Marina\source\repos\лр3\лр3\obj\Debug\net8.0\лр3.pdb
+C:\Users\Marina\source\repos\лр3\лр3\obj\Debug\net8.0\лр3.genruntimeconfig.cache
+C:\Users\Marina\source\repos\лр3\лр3\obj\Debug\net8.0\ref\лр3.dll

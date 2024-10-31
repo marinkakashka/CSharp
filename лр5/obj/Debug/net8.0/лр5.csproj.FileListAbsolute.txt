@@ -1,0 +1,14 @@
+C:\Users\Marina\source\repos\лр5\bin\Debug\net8.0\лр5.exe
+C:\Users\Marina\source\repos\лр5\bin\Debug\net8.0\лр5.deps.json
+C:\Users\Marina\source\repos\лр5\bin\Debug\net8.0\лр5.runtimeconfig.json
+C:\Users\Marina\source\repos\лр5\bin\Debug\net8.0\лр5.dll
+C:\Users\Marina\source\repos\лр5\bin\Debug\net8.0\лр5.pdb
+C:\Users\Marina\source\repos\лр5\obj\Debug\net8.0\лр5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\лр5\obj\Debug\net8.0\лр5.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\лр5\obj\Debug\net8.0\лр5.AssemblyInfo.cs
+C:\Users\Marina\source\repos\лр5\obj\Debug\net8.0\лр5.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\лр5\obj\Debug\net8.0\лр5.dll
+C:\Users\Marina\source\repos\лр5\obj\Debug\net8.0\refint\лр5.dll
+C:\Users\Marina\source\repos\лр5\obj\Debug\net8.0\лр5.pdb
+C:\Users\Marina\source\repos\лр5\obj\Debug\net8.0\лр5.genruntimeconfig.cache
+C:\Users\Marina\source\repos\лр5\obj\Debug\net8.0\ref\лр5.dll
